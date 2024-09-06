@@ -1,5 +1,7 @@
 # SelectionDetail
 
+> Deprecated: 本 Mod 后续更新已经合并到 [AquaMai](https://github.com/hykilpikonna/AquaDX/tree/v1-dev/AquaMai)，请安装 AquaMai 并启用 SelectionDetail
+
 显示当前所选歌的详情
 
 ![image](https://github.com/user-attachments/assets/eacabbed-b093-4dc9-8c5b-a586ba3c0d66)
